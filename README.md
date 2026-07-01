@@ -3,7 +3,7 @@
 A high-performance, real-time web mapping interface simulating intra-city parcel transit routes across high-density commerce corridors (Shanghai - Kunshan/Suzhou route). Built utilizing native geospatial web tech without heavy framework overhead.
 
 ## 🚀 Live Demo
-> **[👉 Click Here to View the Interactive Map](你的GitHubPages链接)**  
+> **[👉 Click Here to View the Interactive Map](https://blueyu-0221.github.io/logistics-demo/index.html)**  
 *(Note: Please replace this with your actual GitHub Pages URL after enabling it in Settings)*
 
 ## 🛠️ Tech Stack & GIS Architecture
